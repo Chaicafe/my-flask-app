@@ -1,5 +1,5 @@
 # My First Dockerized Flask App
-A simple Python Flask app containerized with dDocker and deployed on AWS EC2.
+A simple Python Flask app containerized with Docker and deployed on AWS EC2.
 
 ## Tech Stack
 - Python Stack
